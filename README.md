@@ -1,7 +1,7 @@
 <div id="header" align="center">
-### Hi there 👋
+Hi there 👋
  <br>
-<img src="https://drive.google.com/file/d/1Xe-VQWhOZnIokHoXHncL-3Y3-yUrieyK/view?usp=share_link" width="100"/>
+![(http://url/to/img.png)](https://drive.google.com/file/d/1Xe-VQWhOZnIokHoXHncL-3Y3-yUrieyK/view?usp=share_link)
 
 <br>
 I am Manasij Haldar

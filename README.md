@@ -1,6 +1,9 @@
 <div id="header" align="center">
 ### Hi there 👋
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <br>
+<img src="https://drive.google.com/file/d/1Xe-VQWhOZnIokHoXHncL-3Y3-yUrieyK/view?usp=share_link" width="100"/>
+
+<br>
 I am Manasij Haldar
 
 Currently pursuing B.E. in Computer Science Engineering, 

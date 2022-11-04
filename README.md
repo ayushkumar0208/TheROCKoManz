@@ -5,8 +5,10 @@
 
    ## Currently pursuing B.E. in Computer Science Engineering, 
    ## with Specialization in Artificial Intelligence and Machine Learning. 
+
 <br>
 <br>
+
    ## Enthusiast in Artificial Intelligence Development. 
    ## Seeking to leverage my professional expertise and experience as a ML & Data Science Engineer.
 

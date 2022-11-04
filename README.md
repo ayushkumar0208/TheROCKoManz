@@ -1,5 +1,6 @@
+<div id="header" align="center">
 ### Hi there 👋
-
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 I am Manasij Haldar
 
 Currently pursuing B.E. in Computer Science Engineering, 
@@ -8,6 +9,7 @@ with Specialization in Artificial Intelligence and Machine Learning.
 Enthusiast in Artificial Intelligence Development. 
 Seeking to leverage my professional expertise and experience as a ML & Data Science Engineer.
 
+</div>
 
 🔭 Experience in Programming Languages 
 - Python - C - C++ - Java -

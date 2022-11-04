@@ -1,11 +1,21 @@
 ### Hi there 👋
 
-**TheROCKoManz/TheROCKoManz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Manasij Haldar
 
-Here are some ideas to get you started:
+Currently pursuing B.E. in Computer Science Engineering, 
+with Specialization in Artificial Intelligence and Machine Learning. 
 
-- 🔭 I’m currently working on Projects based on Computer Vision and Deep Learning 
-- 🌱 I’m currently learning Deep Learning and Neural Networks and the application of AI with Cloud
+Enthusiast in Artificial Intelligence Development. 
+Seeking to leverage my professional expertise and experience as a ML & Data Science Engineer.
+
+
+🔭 Experience in Programming Languages 
+- Python - C - C++ - Java -
+
+🌱 Technical Skills and Expertise 
+- Machine Learning - Deep Learning - Data Analytics-Science-Visualization - 
+- Data Structures - Database Management System - Networking - Linux and OS - 
+ 
 
 ## My Badge Collection
 [![@therockomanz's Holopin board](https://holopin.me/therockomanz)](https://holopin.io/@therockomanz)

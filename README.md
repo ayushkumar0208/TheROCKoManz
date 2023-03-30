@@ -25,7 +25,7 @@
 
 <br>
 
-<style>
+![image](<style>
    .libutton {
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@
     background-color: #0A66C2;
     font-family: "SF Pro Text", Helvetica, sans-serif;
    }
-</style>
+</style>)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manasij-haldar" target="_blank">Follow on LinkedIn</a>
 
 <br>
